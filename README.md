@@ -28,5 +28,5 @@ The third notebook delves into the Retrieval-Augmented Generation (RAG) system. 
 
 # Historical Datasets:
 - Arabic History-QA: A dataset of 420 question-answer pairs covering key periods in Egyptian history, including the Pharaohs' era, the Roman occupation, the Ptolemaic Dynasty, and the Greek era with Alexander the great.
-- Contextual Articles: A collection of web-scraped articles in PDF format, providing a knowledge base for the Retrieval-Augmented Generation (RAG) component of the question-answering system
+- Contextual Articles: A collection of web-scraped articles in PDF format, providing a knowledge base for the Retrieval-Augmented Generation (RAG) component of the question-answering system.
 
